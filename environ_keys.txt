@@ -1,0 +1,25 @@
+!!!!Hello, World!
+wsgi.multiprocess
+SERVER_SOFTWARE
+SCRIPT_NAME
+REQUEST_METHOD
+PATH_INFO
+SERVER_PROTOCOL
+QUERY_STRING
+HTTP_USER_AGENT
+HTTP_CONNECTION
+SERVER_NAME
+REMOTE_PORT
+wsgi.url_scheme
+SERVER_PORT
+wsgi.input
+HTTP_HOST
+wsgi.multithread
+HTTP_ACCEPT
+wsgi.version
+RAW_URI
+wsgi.run_once
+wsgi.errors
+REMOTE_ADDR
+gunicorn.socket
+wsgi.file_wrapper
